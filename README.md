@@ -1,3 +1,8 @@
 # FreeRTOS-Kernel-Book
+Mastering the FreeRTOS™ Real Time Kernel
+A Hands-On Tutorial Guide
+Richard Barry -and- The FreeRTOS Team
 
-This repo contains the contents of [FreeRTOS Kernel Book](./toc.md).
+掌握FreeRTOS™实时内核
+实践教程指南
+Richard Barry和FreeRTOS团队
