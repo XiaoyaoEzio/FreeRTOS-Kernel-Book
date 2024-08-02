@@ -32,7 +32,7 @@
     + [2.5.3 函数命名](ch02.md#253-函数命名)
     + [2.5.4 格式化](ch02.md#254-格式化)
     + [2.5.5 宏命名](ch02.md#255-宏命名)
-    + [2.5.6 Rationale for Excessive Type Casting](ch02.md#256-rationale-for-excessive-type-casting)
+    + [2.5.6 过度类型转换的原理](ch02.md#256-过度类型转换的原理)
 
 ## [3 Heap Memory Management](ch03.md#3-heap-memory-management)
   + [3.1 Introduction](ch03.md#31-introduction)
